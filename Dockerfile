@@ -1,5 +1,5 @@
 # Using CentOS as base container
-FROM centos
+FROM blacklabelops/centos
 MAINTAINER Steffen Bleul <blacklabelops@itbleul.de>
 
 # Copy  scripts and configs
