@@ -1,0 +1,6 @@
+proftp:
+  image: blacklabelops/proftp
+  ports:
+   - "42042:21"
+  volumes:
+   - /var/ftp
