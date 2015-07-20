@@ -339,7 +339,7 @@ $ ./scripts/backup.sh
 Restore container from a tar archive.
 
 ~~~~
-$ ./scripts/restore.sh ./backups/JiraBackup-2015-03-08-16-28-40.tar
+$ ./scripts/restore.sh ./backups/ProFTPBackup-2015-03-08-16-28-40.tar
 ~~~~
 
 > A temp container will be created and backup file will be extracted into docker volume. The container will be stopped and restartet afterwards.
