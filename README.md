@@ -381,5 +381,3 @@ Consult the [docker-compose](https://docs.docker.com/compose/) manual for specif
 * [ProFTP Homepage](http://www.proftpd.org/)
 
 
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/blacklabelops/proftp/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
