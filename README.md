@@ -373,7 +373,11 @@ $ docker-compose -d up
 
 Consult the [docker-compose](https://docs.docker.com/compose/) manual for specifics.
 
-## References
+# Support
+
+Leave a message and ask questions on Hipchat: [blacklabelops/hipchat](http://support.blacklabelops.com)
+
+# References
 
 * [Docker Homepage](https://www.docker.com/)
 * [Docker Compose](https://docs.docker.com/compose/)
